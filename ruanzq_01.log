@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.5)  12 MAR 2019 22:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.5)  13 MAR 2019 14:23
 entering extended mode
 **./ruanzq_01.tex
 (ruanzq_01.tex
@@ -613,23 +613,23 @@ quanjiao) on input line 9.
 
 [1
 
-]
-Overfull \hbox (24.47792pt too wide) in paragraph at lines 24--25
-\C70/rm/m/n/10.53937/59 ' \C70/rm/m/n/10.53937/91 œ \C70/rm/m/n/10.53937/76 Ñ \
-C70/rm/m/n/10.53937/5f   \C70/rm/m/n/10.53937/6e ê \C70/rm/m/n/10.53937/7a  \C
-70/rm/m/n/10.53937/5e è|\C70/rm/m/n/10.53937/ff | \C70/rm/m/n/10.53937/63 	 \C
-70/rm/m/n/10.53937/62 @ \C70/rm/m/n/10.53937/5c ^ \C70/rm/m/n/10.53937/76 Ñ \C7
-0/rm/m/n/10.53937/53 O \C70/rm/m/n/10.53937/8b Æ \C70/rm/m/n/10.53937/5b ˘ \C70
-/rm/m/n/10.53937/8f Ÿ \C70/rm/m/n/10.53937/4e õ \C70/rm/m/n/10.53937/7a  \C70/
-rm/m/n/10.53937/5e è \C70/rm/m/n/10.53937/8f € \C70/rm/m/n/10.53937/88 L \C70/r
-m/m/n/10.53937/58 û \C70/rm/m/n/10.53937/5f : \C70/rm/m/n/10.53937/65 9 \C70/rm
-/m/n/10.53937/52 ® \C70/rm/m/n/10.53937/54 å \C70/rm/m/n/10.53937/52  \C70/rm/
-m/n/10.53937/53 —|\C70/rm/m/n/10.53937/30 | \OT1/cmr/m/n/10.53937 git\C70/rm/m
-/n/10.53937/66 /\OT1/cmr/m/n/10.53937 Github\C70/rm/m/n/10.53937/76 Ñ
+] [2]
+Overfull \hbox (13.93855pt too wide) in paragraph at lines 26--27
+\C70/rm/m/n/10.53937/6e ê \C70/rm/m/n/10.53937/7a  \C70/rm/m/n/10.53937/5e è|\
+C70/rm/m/n/10.53937/ff | \C70/rm/m/n/10.53937/63 	 \C70/rm/m/n/10.53937/62 @ \
+C70/rm/m/n/10.53937/5c ^ \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/53 O \C
+70/rm/m/n/10.53937/8b Æ \C70/rm/m/n/10.53937/5b ˘ \C70/rm/m/n/10.53937/8f Ÿ \C7
+0/rm/m/n/10.53937/4e õ \C70/rm/m/n/10.53937/7a  \C70/rm/m/n/10.53937/5e è \C70
+/rm/m/n/10.53937/8f € \C70/rm/m/n/10.53937/88 L \C70/rm/m/n/10.53937/54  \C70/
+rm/m/n/10.53937/6c ’ \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/58 û \C70/r
+m/m/n/10.53937/5f : \C70/rm/m/n/10.53937/65 9 \C70/rm/m/n/10.53937/52 ® \C70/rm
+/m/n/10.53937/54 å \C70/rm/m/n/10.53937/52  \C70/rm/m/n/10.53937/53 —|\C70/rm/
+m/n/10.53937/30 | \OT1/cmr/m/n/10.53937 git\C70/rm/m/n/10.53937/66 /\OT1/cmr/m
+/n/10.53937 Github\C70/rm/m/n/10.53937/76 Ñ
  []
 
-[2]
-Overfull \hbox (28.79622pt too wide) in paragraph at lines 26--27
+
+Overfull \hbox (28.79622pt too wide) in paragraph at lines 28--29
 \C70/rm/m/n/10.53937/63 à \C70/rm/m/n/10.53937/67 C \C70/rm/m/n/10.53937/66 / \
 C70/rm/m/n/10.53937/4e   ˆ \C70/rm/m/n/10.53937/8d 9 \C70/rm/m/n/10.53937/65 ˆ 
 \C70/rm/m/n/10.53937/8d 9 \C70/rm/m/n/10.53937/52 õ \C70/rm/m/n/10.53937/76 Ñ|\
@@ -642,14 +642,15 @@ C70/rm/m/n/10.53937/ff | \OT1/cmr/m/n/10.53937 ProcessOn.com\C70/rm/m/n/10.539
 37/5c 1
  []
 
+[3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.53937> on input line 32.
+(Font)              <10.53937> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 32.
+(Font)              <7> on input line 34.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 32.
+(Font)              <5> on input line 34.
 
-Overfull \hbox (0.86592pt too wide) in paragraph at lines 32--33
+Overfull \hbox (0.86592pt too wide) in paragraph at lines 34--35
 []\OT1/cmr/m/n/10.53937 PowerDesigner\C70/rm/m/n/10.53937/67   \C70/rm/m/n/10.5
 3937/52  \C70/rm/m/n/10.53937/75 1\OT1/cmr/m/n/10.53937 Xiao-Yun Wang |\C70/rm
 /m/n/10.53937/ff |\C70/rm/m/n/10.53937/73 ã \C70/rm/m/n/10.53937/66 S  |\C70/r
@@ -657,8 +658,8 @@ m/m/n/10.53937/ff 	| \C70/rm/m/n/10.53937/57 (\OT1/cmr/m/n/10.53937 SDP Tech-no
 lo-gies\C70/rm/m/n/10.53937/51 l
  []
 
-[3]
-Overfull \hbox (105.93336pt too wide) in paragraph at lines 38--40
+
+Overfull \hbox (105.93336pt too wide) in paragraph at lines 40--42
 \OT1/cmr/m/n/10.53937 https://www.liaoxuefeng.com/wiki/0013739516305929606dd183
 61248578c67b8067c8c017b000 
  []
@@ -669,20 +670,20 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 14728 strings out of 492946
- 274524 string characters out of 3126711
- 286070 words of memory out of 3000000
- 18286 multiletter control sequences out of 15000+200000
- 570856 words of font info for 165 fonts, out of 3000000 for 9000
+ 14769 strings out of 492946
+ 275110 string characters out of 3126711
+ 284070 words of memory out of 3000000
+ 18322 multiletter control sequences out of 15000+200000
+ 571666 words of font info for 168 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,63p,968b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,63p,965b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/s
 imsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows
 /Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:
-/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei
-.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Font
+/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun
+.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Font
 s/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Wind
-ows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc>
+ows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc>
 <C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/sim
 hei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
 onts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/W
@@ -701,28 +702,29 @@ Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.
 ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts
 /simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windo
 ws/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><
-C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simh
-ei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fo
+C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simh
+ei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fo
 nts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Wi
 ndows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.tt
 c><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/s
 imsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows
 /Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:
-/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun
-.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Font
+/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei
+.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Font
 s/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Wind
 ows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc>
-<C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Users/json/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users
-/json/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.p
-fb><C:/Users/json/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmr10.pfb><C:/Users/json/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb><C:/Users/json/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/json/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on ruanzq_01.pdf (4 pages, 625404 bytes).
+<C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/sim
+sun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Users/json/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/json/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/json/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Use
+rs/json/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.
+pfb><C:/Users/json/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr17.pfb><C:/Users/json/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr7.pfb>
+Output written on ruanzq_01.pdf (4 pages, 636194 bytes).
 PDF statistics:
- 510 PDF objects out of 1000 (max. 8388607)
+ 518 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  285 words of extra memory for PDF output out of 10000 (max. 10000000)
 
